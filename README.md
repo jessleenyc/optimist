@@ -40,3 +40,6 @@
 - Generate empathy & hopefully learn from it to better oneself 
 - Connect with others who empathize or are inspired by your story
 - A place for creatives and subjects to meet and see if they'd like to get a story out
+
+
+One button to share and then you can pick which social media platform. 
