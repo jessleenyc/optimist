@@ -32,7 +32,7 @@
 
 #Content
 - We'll begin by targeting creatives with a life/mind/attitude-changing story to share to create a solid foundation of content
-- 
+
 #Purpose
 - Generate empathy & hopefully learn from it to better oneself 
 - Connect with others who empathize or are inspired by your story
