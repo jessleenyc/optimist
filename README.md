@@ -20,10 +20,13 @@
 - A user will receive an email confirmatoin upon registration
 - A user can retrieve their password via e-mail if they've forgotten it
 - A user can see a monthly creative challenge & submit to it
+- A user can register as a creative person looking to help share the story of others
 
 #Audience
 - Anyone who has felt like they've been swimming upstream
 - Anyone who's looking to grow from the experiences of others
+- Anyone who's looking to have a video of their story made
+- Creatives who want to help other share their stories
 
 #Questions
 - Is this for everybody or just creative types?
@@ -36,3 +39,4 @@
 #Purpose
 - Generate empathy & hopefully learn from it to better oneself 
 - Connect with others who empathize or are inspired by your story
+- A place for creatives and subjects to meet and see if they'd like to get a story out
